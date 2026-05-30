@@ -366,19 +366,3 @@ These patterns come from real deployment experience. We've seen teams waste mont
 Start with a clear separation of short-term and long-term memory, implement basic retrieval and context management, then progressively add sophistication as your usage patterns emerge. Monitor everything, because you'll be surprised which memories matter and which don't. Good memory architecture makes agents feel intelligent; poor architecture makes them feel broken.
 
 When you're ready to put these memory patterns into production, [Omnithium](https://omnithium.ai) gives your agents the governance, observability, and scalable memory infrastructure they need to stay reliable across long-running workflows. [See plans and pricing](https://omnithium.ai/pricing) that match your scale.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/memory-context-management-agents).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
